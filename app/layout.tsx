@@ -19,7 +19,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Artecast",
+  title: "Arteast",
   description: "Your art platform",
 };
 
