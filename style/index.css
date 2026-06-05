@@ -573,3 +573,6 @@ font-family: Inter;
   width:90% !important;
 }
 }
+html{
+  scroll-behavior: smooth;
+}
